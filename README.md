@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add your Frontend Mentor solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your GitHub Pages URL here](https://your-live-site-url.com)
+- Live Site URL: [Add your GitHub Pages URL here](https://ergunatay.github.io/product-preview-card-component/)
 
 ## My process
 
