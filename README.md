@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your GitHub Pages URL here](https://ergunatay.github.io/product-preview-card-component/)
+- Solution URL: [View solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-flexbox-and-picture-element-1g9A4slary)
+- Live Site URL: [View live site](https://ergunatay.github.io/product-preview-card-component/)
 
 ## My process
 
